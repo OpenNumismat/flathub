@@ -49,8 +49,6 @@ modules:
   - name: pypi-dependencies
     buildsystem: simple
     build-commands: []
-    config-opts:
-      - --force-clean
     modules:
       - name: python3-PySide6
         buildsystem: simple
