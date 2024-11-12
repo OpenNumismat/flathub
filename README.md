@@ -6,7 +6,7 @@ This repo hosts the flatpak wrapper for [OpenNumismat](https://opennumismat.gith
 
 ```sh
 flatpak install flathub io.github.opennumismat.OpenNumismat
-flatpak run org.opennumismat.OpenNumismat
+flatpak run io.github.opennumismat.OpenNumismat
 ```
 
 ### Wayland
